@@ -68,6 +68,35 @@ body {
     content: '\2714';
 }
 
+.annotazioni1 {
+    height: 40px;
+    padding-top: 20px;
+}
+
+.spunta {
+    border-radius: 50%;
+    border:1px solid rgb(11, 253, 11);
+    color: rgb(11, 253, 11);
+    height: 18px;
+    width: 18px;
+    display: inline-block;
+}
+.spunta span {
+    font-size: 12px;
+    margin: 5px;
+}
+
+#bedit {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(52, 180, 255) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(52, 180, 255);
+}
+
 
 
 
