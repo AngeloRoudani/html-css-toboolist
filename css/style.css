@@ -81,7 +81,22 @@ body {
     width: 18px;
     display: inline-block;
 }
+
+.spunta2 {
+    border-radius: 50%;
+    border:1px solid rgb(253, 11, 23);
+    color: rgb(253, 11, 23);
+    height: 18px;
+    width: 18px;
+    display: inline-block;
+}
+
 .spunta span {
+    font-size: 12px;
+    margin: 5px;
+}
+
+.spunta2 span {
     font-size: 12px;
     margin: 5px;
 }
@@ -95,6 +110,61 @@ body {
     padding: 5px;
     border-radius: 15px;
     border: 1px solid rgb(52, 180, 255);
+}
+
+#bgoal {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(145, 2, 180) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(145, 2, 180);
+}
+
+#brec {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(51, 216, 161) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(51, 216, 161);
+}
+
+#bmob {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(252, 155, 9) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(252, 155, 9);
+}
+
+#bweb {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(240, 39, 123) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(240, 39, 123);
+}
+
+#bsal {
+    font-size: 11px;
+    color: white;
+    background-color:rgb(39, 240, 72) ;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(39, 240, 72);
 }
 
 
