@@ -41,7 +41,6 @@ body {
 }
 
 #task {
-    display: inline-block;
     margin-top: 15px;
     margin-left: 70px;
     padding: 5px;
@@ -93,12 +92,14 @@ body {
 
 .spunta span {
     font-size: 12px;
-    margin: 5px;
+    margin: 0px 5px;
+    vertical-align: middle;
 }
 
 .spunta2 span {
     font-size: 12px;
-    margin: 5px;
+    margin: 4px;
+    vertical-align: middle;
 }
 
 #bedit {
